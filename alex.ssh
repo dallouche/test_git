@@ -1,0 +1,3 @@
+ssh -N -f -Y aalbore@autan.toulouse.inra.fr -L9998:147.99.96.22
+ssh -Y -p 9998 aalbore@127.0.0.1
+
